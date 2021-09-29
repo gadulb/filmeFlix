@@ -1,0 +1,13 @@
+*{
+    font-family: 'Mukta', sans-serif;
+}
+body{
+    background-color: rgb(150, 132, 182);
+}
+
+hr{
+    border-color: black;
+} 
+p{
+    font-size: 20px;
+}
