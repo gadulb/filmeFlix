@@ -1,5 +1,7 @@
 *{
     font-family: 'Mukta', sans-serif;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 body{
     background-color: rgb(150, 132, 182);
@@ -14,9 +16,35 @@ p{
 
 header{
     height: 280px;
+    text-align: center;
 }
 
 footer{
     text-align: center;
     padding-top: 280px;
+}
+
+header h1{
+    font-size: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+fieldset{
+    border: solid 3px black;
+}
+
+.margin{
+    width: 1200px;
+}
+
+.margin-fil{
+    margin-top: ;
+}
+
+li{
+    border-radius: 0 10px 0px 0px;
+    box-shadow: -2px -2px 15px;
+    border: 2px solid rgb(185, 185, 185);
+    width: 130px;
 }
