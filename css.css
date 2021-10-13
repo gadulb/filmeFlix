@@ -4,7 +4,7 @@
     padding: 0 auto;
 }
 body{
-    background-color: rgb(150, 132, 182);
+    background-color: rgb(187, 187, 187);
 }
 
 hr{
@@ -39,7 +39,7 @@ fieldset{
 }
 
 .margin-fil{
-    margin-top: ;
+    margin-top: 10px;
 }
 
 li{
@@ -47,4 +47,11 @@ li{
     box-shadow: -2px -2px 15px;
     border: 2px solid rgb(185, 185, 185);
     width: 130px;
+    list-style-type: none;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+ul{
+    margin-bottom: 10px;
 }
