@@ -4,7 +4,7 @@
     padding: 0 auto;
 }
 body{
-    background-color: rgb(187, 187, 187);
+    background-color: rgb(102, 133, 151)
 }
 
 hr{
@@ -45,7 +45,7 @@ fieldset{
 .nav_nav{
     border-radius: 0 10px 0px 0px;
     box-shadow: -2px -2px 15px;
-    border: 2px solid rgb(185, 185, 185);
+    border: 2px solid rgb(2, 15, 87);
     width: 130px;
     list-style-type: none;
     list-style: none;
