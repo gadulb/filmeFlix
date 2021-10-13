@@ -58,6 +58,14 @@ li{
     margin-bottom: 10px;
 }
 
+button{
+    border-radius: 0 10px 0px 0px;
+    box-shadow: -2px -2px 15px;
+    border: 2px solid rgb(2, 15, 87);
+    margin-top: 10px;
+    background-color: rgb(114, 131, 161);
+}
+
 ul{
     margin-bottom: 10px;
 }
