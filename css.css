@@ -39,12 +39,12 @@ fieldset{
 }
 
 .margin-fil{
-    margin-top: ;
+    margin-top: 10px;
 }
 
 li{
     border-radius: 0 10px 0px 0px;
     box-shadow: -2px -2px 15px;
-    border: 2px solid rgb(185, 185, 185);
+    border: 2px solid black ;
     width: 130px;
 }
