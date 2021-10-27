@@ -2,13 +2,15 @@
     font-family: 'Mukta', sans-serif;
     margin: 0 auto;
     padding: 0 auto;
+    color: #11105f;
 }
+
 body{
-    background-color: rgb(102, 133, 151)
+    background-color: #bdfbd4;
 }
 
 hr{
-    border-color: black;
+    background-color: #11105f;
 } 
 p{
     font-size: 20px;
@@ -32,6 +34,8 @@ header h1{
 
 fieldset{
     border: solid 3px black;
+    padding: 20px;
+
 }
 
 .margin{
@@ -54,6 +58,7 @@ fieldset{
     padding: 5px;
     margin-bottom: 30px;
     float: left;
+
 }
 
 li{
@@ -67,7 +72,7 @@ button{
     box-shadow: -2px -2px 15px;
     border: 2px solid rgb(2, 15, 87);
     margin-top: 10px;
-    background-color: rgb(114, 131, 161);
+    background-color: rgb(255, 255, 255);
 }
 
 ul{
@@ -75,8 +80,8 @@ ul{
 }
 
 .margin_center{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 0px;
 }
 
 .clear{
@@ -181,4 +186,23 @@ ul{
     text-align: justify;
     margin-left: 15px;
     margin-top: 5px;
+}
+
+h1{
+    color: #11105f;
+}
+h2{
+    color: #11105f;
+}
+
+a{ 
+    text-decoration: none;
+}
+
+.gambiarra{
+    margin-left: 20px;
+}
+
+.mr_chato{
+    margin-right: 10px;
 }
