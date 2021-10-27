@@ -83,6 +83,7 @@ ul{
     clear: both;
 }
 
+<<<<<<< HEAD
   .login {
     height: 100vh;
     display: flex;
@@ -154,6 +155,11 @@ ul{
     text-decoration: none;
     float: left;
   }
+=======
+.cadastro{
+    text-align: center;
+}
+>>>>>>> 3adf94ecc784f49eadf2189ea18b23f75ee33cda
 
 .faq_exp{
     width: 50%;
