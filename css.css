@@ -82,3 +82,28 @@ ul{
 .clear{
     clear: both;
 }
+
+.faq_exp{
+    width: 50%;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.faq_exp_end{
+    margin-top: 10px;
+    width: 50%;
+    font-size: 16px;
+    text-align: center;
+}
+
+.faq_links{
+    color:rgb(2, 15, 87);
+    font-weight: normal;
+}
+
+.passos_cadastro{
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 15px;
+    margin-top: 5px;
+}
