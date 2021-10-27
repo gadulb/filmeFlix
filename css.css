@@ -46,10 +46,14 @@ fieldset{
     border-radius: 0 10px 0px 0px;
     box-shadow: -2px -2px 15px;
     border: 2px solid rgb(2, 15, 87);
-    width: 130px;
+    margin-right: 10px;
     list-style-type: none;
     list-style: none;
     margin-bottom: 10px;
+    text-decoration: none;
+    padding: 5px;
+    margin-bottom: 30px;
+    float: left;
 }
 
 li{
@@ -73,4 +77,8 @@ ul{
 .margin_center{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.clear{
+    clear: both;
 }
