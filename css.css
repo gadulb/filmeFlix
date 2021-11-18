@@ -23,7 +23,7 @@ header{
 
 footer{
     text-align: center;
-    padding-top: 280px;
+    padding-bottom: 280px;
 }
 
 header h1{
@@ -205,4 +205,22 @@ a{
 
 .mr_chato{
     margin-right: 10px;
+}
+
+.nav-item{
+    margin-right: 100px;
+
+}
+
+.nav-item a{
+    font-size: 20px;
+    color: white;
+}
+
+.um_menu{
+    background-color: #11105F;
+}
+
+.cancel_submit{
+    float: center;
 }
