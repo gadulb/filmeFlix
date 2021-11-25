@@ -23,7 +23,11 @@ header{
 
 footer{
     text-align: center;
-    padding-bottom: 280px;
+    padding-bottom: 260px;
+}
+
+footer a{
+    color: white;
 }
 
 header h1{
