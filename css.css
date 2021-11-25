@@ -89,7 +89,7 @@ ul{
 }
 
   .login {
-    height: 100vh;
+    height: 55vh;
     display: flex;
     align-items: center;
   }
