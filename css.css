@@ -39,8 +39,19 @@ header h1{
 fieldset{
     border: solid 3px rgb(2, 15, 87);
     padding: 20px;
-
+    color: white;
+    background-color: #11105f;
 }
+
+fieldset h2{
+    color: white;
+  }
+  fieldset p{
+    color: white;
+  }
+  fieldset h3{
+    color: white;
+  }
 
 .margin{
     width: 1200px;
