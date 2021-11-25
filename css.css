@@ -97,7 +97,7 @@ ul{
   .login__container {
     min-height: 400px;
     width: 300px;
-    background-color: white;
+    background-color: #11105f;
     box-sizing: border-box;
     padding: 32px;
     border-radius: 8px;
@@ -108,6 +108,7 @@ ul{
   
   .login__titulo {
     margin-bottom: 32px;
+    color: white;
   }
   
   .login__form {
@@ -130,7 +131,7 @@ ul{
     height: 1px;
     width: 100%;
     margin-bottom: 16px;
-    background: black;
+    background: rgb(255, 255, 255);
   }
   
   .login__input-border::after {
@@ -144,10 +145,10 @@ ul{
     width: 100%;
     padding-left: 8px;
     position: relative;
-    background: #11105f;
+    background: #ffffff;
     background-size: 200%;
     margin-bottom: 32px;
-    color: white;
+    color: #11105f;
     font-size: 16px;
     border-radius: 4px;
     cursor: pointer;
@@ -155,7 +156,7 @@ ul{
 
   .login__reset {
     font-size: 15px;
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     float: left;
   }
