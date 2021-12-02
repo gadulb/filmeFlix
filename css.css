@@ -176,9 +176,10 @@ ul{
   }
 
 .faq_exp{
-    width: 50%;
+    width: 90%;
     font-size: 16px;
     text-align: justify;
+    color: white;
 }
 
 .faq_exp_end{
@@ -186,10 +187,11 @@ ul{
     width: 50%;
     font-size: 16px;
     text-align: center;
+    color: white;
 }
 
 .faq_links{
-    color:rgb(2, 15, 87);
+    color:white;
     font-weight: normal;
 }
 
@@ -198,6 +200,7 @@ ul{
     text-align: justify;
     margin-left: 15px;
     margin-top: 5px;
+    color: white;
 }
 
 h1{
