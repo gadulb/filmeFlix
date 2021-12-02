@@ -244,6 +244,10 @@ a{
 
 .um_menu{
     background-color: #11105F;
+    text-align: center;
+    margin: 0px;
+    padding: 0x;
+    
 }
 
 .cancel_submit{
