@@ -39,7 +39,44 @@ header h1{
 fieldset{
     border: solid 3px rgb(2, 15, 87);
     padding: 20px;
+    background-color: #11105f;
+    color: white;
+}
 
+fieldset p{
+    color: white;
+}
+
+fieldset a{
+    color: white;
+}
+
+fieldset h3{
+    color: white;
+}
+
+fieldset li{
+    color: white;
+}
+
+fieldset ol{
+    color: white;
+}
+
+fieldset ul{
+    color: white;
+}
+
+fieldset b{
+    color: white;
+}
+
+fieldset i{
+    color: white;
+}
+
+fieldset p a{
+    color: white;
 }
 
 .margin{
@@ -166,7 +203,7 @@ ul{
   }
 
 .faq_exp{
-    width: 50%;
+    width: 70%;
     font-size: 16px;
     text-align: justify;
 }
@@ -179,8 +216,8 @@ ul{
 }
 
 .faq_links{
-    color:rgb(2, 15, 87);
-    font-weight: normal;
+    color: white;
+    font-weight: bold;
 }
 
 .passos_cadastro{
