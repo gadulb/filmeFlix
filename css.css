@@ -56,7 +56,7 @@ fieldset h3{
 }
 
 fieldset li{
-    color: white;
+    color : white;
 }
 
 fieldset ol{
@@ -285,12 +285,12 @@ b{
     padding: 15px;  
 }
 .lis{
-    font-size: 45px;
+    font-size: 30px;
 }
 .pop{
     color: white;
 }
 .sas{
-    font-size: 30px;
+    font-size: 20px;
 }
 
