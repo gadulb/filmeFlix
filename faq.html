@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap" rel="stylesheet">
+    <style>
+      fieldset{
+        width: 50%;
+      }
+    </style>
     <link rel="stylesheet" href="css.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">   
@@ -14,13 +22,15 @@
     <header>
         <h1>FilmeFlix</h1>
     </header>
+
+
     <center>
         <div class="um_menu">
         <nav class="navbar navbar-expand-lg navbar-dark">
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                      <a class="nav-link active" style="margin-left: 100px;" aria-current="page" href="index.html">Home</a>
                     </li>
                   <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="login.html">Login</a>
@@ -46,12 +56,15 @@
           </nav>
     </center>
     <div class="clear"></div>
-
+    
+    <br><br><br>
+  <center>
+    <h2 style="font-weight: normal;">FAQ - Perguntas Frequentes</h2>
+    <br><br>
+    <fieldset>
     <div>
-        <center>
-            <br><br><br>
-        <h1>FAQ - Perguntas Frequentes</h1>
-            <br><br>
+      <br>
+        <center> 
             <div class="faq_exp">
                 <h3 style="margin-bottom: 5px;">Não consigo acessar minha conta pelo login, o que fazer?</h3>
                 <p>Tente descobrir se você inseriu corretamente sua senha e e-mail e, caso não se recorde da senha, você pode solicitar um código de verificação em seu e-mail para recuperar sua senha; mas caso não se lembre do e-mail <b>não será possível acessar sua conta.</b> </p>
@@ -89,16 +102,25 @@
             </div>
             <br><br>
             <div class="faq_exp_end">
-                <b style="font-size: 20px;">Se algum dos problemas persistirem, contate o suporte pelo e-mail <a href="#" class="faq_links">email.ficticio@filmeflix.net.com.br</a></b>
+                <b style="font-size: 20px; color: white">Se algum dos problemas persistirem, contate o suporte pelo e-mail:
+                <br>
+                <a href="#" class="faq_links">email.ficticio@filmeflix.net.com.br</a></b>
             </div>
-            <br><br>
         </center>
     </div>
+  </fieldset>
+</center>
+<br><br>
 
-    <footer style="background-color: #11105F; color: white;">
-      <br><br>
-        2021 - Gabrieli, Lucas, Nina
-    </footer>
+<footer style="background-color: #11105F; color: white;">
+  <br><br>
+  <a href="lista_emp.html">Listagem de Empregos</a>
+  <br>
+  <a href="#">Reportar Bugs</a>
+  <br>
+  <p style="color: white">____________________________________________________________________</p>
+    2021 - Gabrieli, Lucas, Nina
+</footer>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
