@@ -34,25 +34,50 @@ header h1{
     font-size: 200px;
     margin: 0;
     padding: 0;
-    font-style: bold;
 }
 
 fieldset{
     border: solid 3px rgb(2, 15, 87);
     padding: 20px;
-    color: white;
     background-color: #11105f;
+    color: white;
 }
 
-fieldset h2{
+fieldset p{
     color: white;
-  }
-  fieldset p{
+}
+
+fieldset a{
     color: white;
-  }
-  fieldset h3{
+}
+
+fieldset h3{
     color: white;
-  }
+}
+
+fieldset li{
+    color: white;
+}
+
+fieldset ol{
+    color: white;
+}
+
+fieldset ul{
+    color: white;
+}
+
+fieldset b{
+    color: white;
+}
+
+fieldset i{
+    color: white;
+}
+
+fieldset p a{
+    color: white;
+}
 
 .margin{
     width: 1200px;
@@ -74,6 +99,7 @@ fieldset h2{
     padding: 5px;
     margin-bottom: 30px;
     float: left;
+
 }
 
 li{
@@ -119,7 +145,6 @@ ul{
   }
   
   .login__titulo {
-    margin-bottom: 32px;
     color: white;
   }
   
@@ -174,10 +199,9 @@ ul{
   }
 
 .faq_exp{
-    width: 90%;
+    width: 70%;
     font-size: 16px;
     text-align: justify;
-    color: white;
 }
 
 .faq_exp_end{
@@ -185,12 +209,11 @@ ul{
     width: 50%;
     font-size: 16px;
     text-align: center;
-    color: white;
 }
 
 .faq_links{
-    color:white;
-    font-weight: normal;
+    color: white;
+    font-weight: bold;
 }
 
 .passos_cadastro{
@@ -198,7 +221,6 @@ ul{
     text-align: justify;
     margin-left: 15px;
     margin-top: 5px;
-    color: white;
 }
 
 h1{
@@ -215,16 +237,13 @@ h4{
 }
 
 a{ 
-    text-decoration: none;  
-}
-
-.tata{
-    color: white;
-    text-align: justify;
+    text-decoration: none;
+    
 }
 
 .gambiarra{
-    margin-left: 20px; 
+    margin-left: 20px;
+    
 }
 
 .mr_chato{
@@ -233,6 +252,7 @@ a{
 
 .nav-item{
     margin-right: 100px;
+
 }
 
 .nav-item a{
@@ -242,20 +262,35 @@ a{
 
 .um_menu{
     background-color: #11105F;
-    text-align: center;
-    margin: 0px;
-    padding: 0x;
-    
 }
 
 .cancel_submit{
     float: center;
 }
-
 label{
     color: white;
 }
-
 b{
+    color: #11105f;
+}
+.itens-footer{
+    display: inline-block;
+    padding: 5px;
+    font-size: 35px;
+}
+.opp{
+    padding: 0 .5em;
+}
+.sasa{
+    padding: 15px;  
+}
+.lis{
+    font-size: 45px;
+}
+.pop{
     color: white;
 }
+.sas{
+    font-size: 30px;
+}
+
