@@ -113,7 +113,8 @@ button{
     box-shadow: -2px -2px 15px;
     border: 2px solid rgb(2, 15, 87);
     margin-top: 10px;
-    background-color: rgb(149, 149, 149);;
+    background-color: rgb(149, 149, 149);
+    font-weight: bold;
 }
 
 ul{
